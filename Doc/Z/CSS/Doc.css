@@ -1,0 +1,33 @@
+.token {
+	color: maroon ;
+        text-decoration: none;
+}  
+
+.person {
+	color: #4B2503 ;
+        text-decoration: none;
+}  
+
+.definedterm {
+	color: green ;
+        text-decoration: none;
+}  
+
+span :hover { 
+    background-color: #f0f0f0;
+}
+
+.xref {
+	color: darkblue ;
+}  
+
+
+.jurisdiction {
+	color: #5500AA ;
+       
+}
+
+.missing {
+	color: magenta ;
+       
+}
