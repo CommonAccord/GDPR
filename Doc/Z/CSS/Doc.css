@@ -13,9 +13,6 @@
         text-decoration: none;
 }  
 
-span :hover { 
-    background-color: #f0f0f0;
-}
 
 .xref {
 	color: darkblue ;
