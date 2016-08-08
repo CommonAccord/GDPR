@@ -4,8 +4,13 @@
 }  
 
 .person {
-	color: #4B2503 ;
-        text-decoration: none;
+        text-decoration: underline;
+}  
+
+.definedterm.person {
+
+	color: #00AAAA ;
+        text-decoration: underline;
 }  
 
 .definedterm {
