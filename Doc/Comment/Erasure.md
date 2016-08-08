@@ -14,13 +14,18 @@ Ti=Right to be forgotten
 
 1.3.sec={GDPR.Article.14.2.1.sec}
 
-1.4.Sec={GDPR.Article.17.Sec}
 
-1.5.Sec={GDPR.Article.19.Sec}
+1.4.Ti={GDPR.Article.15.Ti}
 
-1.6.Sec={GDPR.Article.89.Sec}
+1.4.sec={GDPR.Article.15.1.5.sec}
 
-1.=[Z/ol/6]
+1.5.Sec={GDPR.Article.17.Sec}
+
+1.6.Sec={GDPR.Article.19.Sec}
+
+1.7.Sec={GDPR.Article.89.Sec}
+
+1.=[Z/ol/7]
 
 2.Ti=Links
 
